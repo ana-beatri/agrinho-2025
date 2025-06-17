@@ -18,7 +18,7 @@ Cabeçalho (Header):
 
 #### Problemas:
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
+Os principais problemas gerados pelo desmatamento são:
 Aumento das enchentes.
 Calor excessivo e ilhas de calor.
 Redução da qualidade de vida.
